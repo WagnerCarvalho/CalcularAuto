@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258484220069",
+    "firebase_url": "https://calcularauto.firebaseio.com",
+    "project_id": "calcularauto",
+    "storage_bucket": "calcularauto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258484220069:android:cbe291a6c39505f0641d4c",
+        "android_client_info": {
+          "package_name": "br.com.wagner.calcularauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258484220069-n99ngn3spldcegp95f0kp72ojkl40uri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wagner.calcularauto",
+            "certificate_hash": "6ca3d1591733f350399b9da21ae41e4ac76bd3a9"
+          }
+        },
+        {
+          "client_id": "258484220069-2posleoopc23gfiotkjt8digj3ts8i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDCMWbQiPRXMcGwHUMJYOG1KTFUszIds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258484220069-2posleoopc23gfiotkjt8digj3ts8i24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
